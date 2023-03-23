@@ -68,7 +68,7 @@
   "dependencies": {
     "aws-sdk": "^2.1260.0",
     "chrome-launcher": "^0.15.1",
-    "lighthouse": "^9.6.8",
+    "lighthouse": "^10.0.2",
     "node-fetch": "^3.3.0"
   }
 }
